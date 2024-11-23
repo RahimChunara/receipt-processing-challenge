@@ -18,7 +18,7 @@ The application is built using Go and can be run locally or within a Docker cont
 
 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/RahimChunara/receipt-processing-challenge.git
 cd receipt-processor
 ```
 
